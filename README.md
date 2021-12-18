@@ -1,5 +1,5 @@
 ## BlueNRG-LP-Demo_01
-The project is related to the evaluation platform _STEVAL-IDB011V1_ based on _BlueNRG-LP_ from STMicroelectronics. 
+The project is related to the evaluation platform *STEVAL-IDB011V1* based on _BlueNRG-LP_ from STMicroelectronics. 
 
 This project transforms “BLE_SensorDemo“ project from “BlueNRG-LP DK SW package"  to a more user-friendly project. The result is the firmware transmitting the signal over the BLE notification. 
 
